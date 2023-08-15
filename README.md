@@ -1,2 +1,2 @@
-# JAVA-TRAINING-BLDEA
+# JAVA-BLDEA
 contains Java Training Programs
